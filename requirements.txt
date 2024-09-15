@@ -1,0 +1,6 @@
+-pyperclip
+-customtkinter (first pip install tkinter )
+-pyinstall
+-os
+-sqlite3
+-python3
